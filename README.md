@@ -16,7 +16,9 @@ Para o Treinamento desse modelo, foram utilizadas 2.527 imagens no total, podemo
 
 ![image](https://github.com/crushedbyamallet/GS-IA/assets/126797082/099cc2d0-fb0d-4057-9c00-53e4d03a1405)
 
-Métricas de Desempenho:
+
+
+**Métricas de Desempenho:**
 
 ![image](https://github.com/crushedbyamallet/GS-IA/assets/126797082/d0782e61-46ce-4d68-8971-100897563887)
 
