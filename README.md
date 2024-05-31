@@ -1,14 +1,14 @@
 # GS-IA
-Todos os requisitos referentes entrega GS de DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA.
+*Todos os requisitos referentes entrega GS de DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA.*
 
-Modelo
+**Modelo**
 
 Desenvolvido com Keras, esse modelo de Deep Learning classifica imagens de resíduos. O processo inicia com o pré-processamento da imagem, que inclui redimensionamento e normalização. A imagem é então alimentada ao modelo, que prevê a classe do resíduo e a pontuação de confiança associada, facilitando a identificação automática de diferentes tipos de resíduos.
 
 A aplicação desta tecnologia tem um impacto direto e positivo nos oceanos. Ao melhorar a eficiência da gestão de resíduos, reduzimos a quantidade de lixo que acaba nos corpos d'água. Plásticos e outros detritos que frequentemente poluem os oceanos podem ser identificados e reciclados de maneira mais eficaz, diminuindo a poluição marinha. Com menos resíduos atingindo os ecossistemas aquáticos, ajudamos a proteger a vida marinha, a preservar a biodiversidade e a manter a saúde dos oceanos. Em última análise, este modelo não só promove a sustentabilidade em terra, mas também contribui significativamente para a conservação dos ambientes marinhos.
 
 
-Treinamento e Alimentação
+**Treinamento e Alimentação**
 
 Para o Treinamento desse modelo, foram utilizadas 2.527 imagens no total, podemos observar a distribuição delas de acordo com as classes de resíduos nas seguintes imagens:
 
