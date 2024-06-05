@@ -1,6 +1,8 @@
 # GS-IA
 *Todos os requisitos referentes entrega GS de DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA.*
 
+**LINK PARA O VÍDEO DE APRESENTAÇÃO:** https://drive.google.com/file/d/1qc5toaT1FKD0YfkImhVlxAntohuNvPQd/view?usp=sharing*
+
 **Modelo**
 
 Desenvolvido com Keras, esse modelo de Deep Learning classifica imagens de resíduos. O processo inicia com o pré-processamento da imagem, que inclui redimensionamento e normalização. A imagem é então alimentada ao modelo, que prevê a classe do resíduo e a pontuação de confiança associada, facilitando a identificação automática de diferentes tipos de resíduos.
