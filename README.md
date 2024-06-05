@@ -1,7 +1,7 @@
 # GS-IA
 *Todos os requisitos referentes entrega GS de DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA.*
 
-**LINK PARA O VÍDEO DE APRESENTAÇÃO:** https://drive.google.com/file/d/1qc5toaT1FKD0YfkImhVlxAntohuNvPQd/view?usp=sharing*
+**LINK PARA O VÍDEO DE APRESENTAÇÃO:** https://drive.google.com/file/d/1qc5toaT1FKD0YfkImhVlxAntohuNvPQd/view?usp=sharing
 
 **Modelo**
 
